@@ -46,8 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ClickableTile.cs" />
+     <Compile Include="Assets\Node.cs" />
      <Compile Include="Assets\TileMap.cs" />
      <Compile Include="Assets\TileType.cs" />
+     <Compile Include="Assets\Unit.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
